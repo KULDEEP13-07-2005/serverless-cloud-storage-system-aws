@@ -1,7 +1,7 @@
 import boto3
 
 s3 = boto3.client('s3')
-BUCKET = "scssuaws28042026"
+BUCKET = "bucket_name"
 
 def lambda_handler(event, context):
     url = s3.generate_presigned_url(
