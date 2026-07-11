@@ -43,11 +43,23 @@ A desktop-based cloud storage application developed using **Python** and **AWS S
 
 ## Screenshots
 
-- Home Screen
-- Upload Files
-- List Files
-- Download Files
-- Delete Files
+### Home Screen
+![Home Screen](home-screen.png)
+
+### Upload Files
+![Upload](upload.png)
+
+### List Files
+![List Files](list-files.png)
+
+### Download File
+![Download](download.png)
+
+### Delete Files
+![Delete Success](delete-success.png)
+
+### Files After Deletion
+![List After Delete](list-after-delete.png)
 
 ---
 
