@@ -64,7 +64,7 @@ python app.py
 
 **Kuldeep Jangra**
 
-B.Tech Computer Science Engineering
+B.Tech Computer Science Engineering Graduate
 
 AWS Certified Solutions Architect – Associate (SAA-C03)
 
